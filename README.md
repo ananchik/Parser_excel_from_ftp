@@ -5,3 +5,4 @@ This code shows
 1) How to connect to ftp servers
 2) How to replace some files from one folder to another on ftp server
 3) How to parse excel-files
+4) How to insert parsing data in oracle DB
